@@ -7,7 +7,7 @@ import csv
 last = [None]*32
 cb = []
 
-csv_file = open('frequency_data.csv', mode='w', newline='')
+csv_file = open('data/frequency_data.csv', mode='w', newline='')
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['Timestamp', 'Frequency (Hz)'])
 
