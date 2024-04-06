@@ -11,7 +11,7 @@
 # Setup
 
 - connect your device to gpio pin 18
-- connect power to pin 4 and ground to pin 3
+- connect power to pin 4 and ground to pin 6
 - run the following command to install the required packages
 
 ```bash
